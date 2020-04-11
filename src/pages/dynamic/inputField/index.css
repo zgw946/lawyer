@@ -1,0 +1,11 @@
+.wires {
+	border-top: #f0f0f0 1px solid;
+	padding-top: 6px;
+}
+.emoji {
+	margin: 0;
+	padding: 0;
+	border: 1px solid transparent;
+	outline: none;
+	background-color: #fff;
+}

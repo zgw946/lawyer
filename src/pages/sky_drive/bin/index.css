@@ -1,0 +1,84 @@
+.particular {
+	width: 1200px;
+	background-color: #fff;
+	margin: 0 auto;
+	height: 700px;
+	margin-top: 50px;
+	border-radius: 8px;
+}
+.my_uploading {
+	width: 935px;
+	float: left;
+	position: relative;
+}
+.myheerds {
+	height: 60px;
+	border-bottom: 1px #e6e6e6 solid;
+}
+.myview {
+	height: 70px;
+	clear: both;
+	border-bottom: 1px #e6e6e6 solid;
+}
+.name_checkbox {
+	float: left;
+	margin-top: 41px;
+	margin-left: -114px;
+}
+.myFile {
+	color: #b3b3b3;
+	font-size: 12px;
+	margin-left: 10px;
+	cursor: pointer;
+}
+/* .file1:active {
+	height: 100px;
+	width: 100px;
+	background-color: #c6e2ff;
+} */
+
+.file_certificate:hover {
+  height: 40px;
+	width: 100%;
+  background-color: #c6e2ff;
+  clear: both;
+}
+.file_certificate2:hover {
+  clear: both;
+  height: 40px;
+	width: 100%;
+	background-color: #c6e2ff;
+}
+.fileji {
+	position: absolute;
+	font-size: 20px;
+	color: #ffcf5c;
+	top: 10px;
+	left: 44px;
+}
+.filejias {
+	font-size: 45px;
+	position: absolute;
+	top: 145px;
+	margin-left: 15px;
+	color: #ffcf5c;
+}
+.fileji_docx{
+  position: absolute;
+	font-size: 20px;
+	/* color: #ffcf5c; */
+	top: 10px;
+	left: 44px;
+	color: #76cae8;
+}
+.my_xiangxis {
+	height: 700px;
+	width: 265px;
+	float: right;
+	border-left: 1px #e6e6e6 solid;
+}
+.detailed {
+	height: 60px;
+	border-bottom: 1px #e6e6e6 solid;
+}
+

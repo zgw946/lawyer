@@ -1,0 +1,63 @@
+.mycase {
+	width: 1200px;
+	margin: 0 auto;
+	height: 100%;
+}
+.ant-menu:not(.ant-menu-horizontal) .ant-menu-item-selected {
+	background-color: #ededed;
+}
+.bjs {
+	/* width: auto; */
+	background-color: #f7f7f7;
+}
+body {
+	background-color: #f7f7f7;
+	height: 100%;
+}
+.clear {
+	clear: both;
+}
+.aj_mcase {
+	background-color: #2e3341;
+	height: 40px;
+	width: 240px;
+	margin-top: 40px;
+	/* margin-right: 30px; */
+	border-radius: 8px 8px 0px 0px;
+	position: relative;
+}
+.aj_mcases {
+	background-color: #2e3341;
+	height: 40px;
+	width: 240px;
+	margin-top: 4px;
+	/* margin-right: 30px; */
+	border-radius: 8px 8px 0px 0px;
+	position: relative;
+}
+.aj {
+	position: absolute;
+	top: 14px;
+	left: 20px;
+}
+.wjs {
+	position: absolute;
+	top: 9px;
+	left: 48px;
+	color: #fff;
+	font-size: 16px;
+}
+.screen {
+	/* position: absolute; */
+	color: #333333;
+	font-size: 16px;
+	top: 22px;
+	left: 30px;
+}
+.ant-menu-item > a {
+	display: block;
+	color: #ccc;
+}
+/* .menus {
+	margin-left: 356px;
+} */

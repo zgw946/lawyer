@@ -1,0 +1,17 @@
+.safetys{
+  width: 935px;
+	margin-left: 20px;
+	float: right;
+	border-radius: 8px;
+	background-color: #fff;
+	padding: 10px 12px;
+}
+.webgame{
+	position: absolute;
+	bottom: 0px;
+	right: 0;
+	left: 0;
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+}

@@ -1,0 +1,70 @@
+.law_home {
+	width: 100%;
+	overflow: auto;
+	background-color: #e9ecf2;
+}
+.law_headerBjs {
+	width: 100%;
+	background-color: #eff3f5;
+}
+.law_homesTop {
+	width: 1200px;
+	overflow: auto;
+	margin: 0 auto;
+	padding-top: 20px;
+	padding-bottom: 15px;
+}
+.law_case {
+	width: 800px;
+	background: rgba(255, 255, 255, 1);
+	border-radius: 4px;
+	float: left;
+	padding: 20px 24px;
+}
+.myAssistant {
+	width: 360px;
+	height: 434px;
+	background: rgba(255, 255, 255, 1);
+	border-radius: 4px;
+	float: right;
+	padding: 20px 24px;
+	position: relative;
+}
+.my_cloud {
+	width: 360px;
+	height: 195px;
+	background: rgba(255, 255, 255, 1);
+	border-radius: 4px;
+	float: right;
+	margin-top: 20px;
+	padding: 20px 24px;
+}
+.moemo_centre {
+	width: 1200px;
+	margin: 0 auto;
+	margin-top: 30px;
+	/* overflow: auto; */
+	padding-bottom: 60px;
+}
+.law_footerBjs {
+	width: 100%;
+	background-color: #fff;
+}
+.law_square {
+	width: 820px;
+	/* height: 770px; */
+	/* background: #fff; */
+	margin-top: 20px;
+	float: left;
+	margin-bottom: 10px;
+}
+.law_footer {
+	width: 1200px;
+	margin: 0 auto;
+}
+.law_schedule {
+  width: 320px;
+	margin-top: 20px;
+	float: right;
+	margin-bottom: 10px;
+}

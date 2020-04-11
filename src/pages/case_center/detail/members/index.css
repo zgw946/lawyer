@@ -1,0 +1,45 @@
+.particulars3 {
+	width: 935px;
+	/* background-color: #fff; */
+	float: left;
+	margin-left: 25px;
+	border-radius: 8px;
+}
+
+.addmember {
+	width: 300px;
+	height: 183px;
+	background: rgba(242, 246, 255, 1);
+	border: 1px solid rgba(69, 134, 255, 1);
+	border-radius: 8px;
+	/* margin: 10px 0; */
+	position: relative;
+	float: left;
+}
+
+.add_name {
+	display: block;
+	font-size: 50px;
+	line-height: 150px;
+	cursor: pointer;
+
+}
+.ant-card-body {
+	padding: 15px 15px 0 15px;
+	zoom: 1;
+}
+.add_yuan {
+	display: block;
+	text-align: center;
+}
+
+.mycards {
+	border-radius: 8px;
+	position: relative;
+	float: left;
+}
+
+.addmemberAdd {
+	margin: 0 auto;
+	display: block;
+}

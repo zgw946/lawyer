@@ -1,0 +1,19 @@
+.bing{
+  width: 935px;
+	margin-left: 20px;
+	float: right;
+	border-radius: 8px;
+	background-color: #fff;
+  padding: 10px 12px;
+  height: 800px;
+}
+.myMobile{
+  margin-top: 20px;
+  border-bottom: 1px solid #ccc;
+  padding: 0px 0px 15px 20px;
+}
+.my_Wechat{
+  margin-top: 20px;
+  border-bottom: 1px solid #ccc;
+  padding: 0px 0px 15px 20px;
+}

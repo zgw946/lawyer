@@ -1,0 +1,18 @@
+.actives{
+  border: 1px dashed #ccc;
+  width: 70px;
+	height: 70px;
+}
+.addstaff:active {
+	border: 1px dashed #8eb6ff;
+	width: 70px;
+	height: 70px;
+	/* padding: 15px; */
+	position: relative;
+}
+.stasadds {
+	font-size: 12px;
+	margin-left: 13px;
+	margin-top: 13px;
+	color: #d6d6d6;
+}

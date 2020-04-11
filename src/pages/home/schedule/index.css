@@ -1,0 +1,16 @@
+.law_point {
+	width: 14px;
+	height: 12px;
+	background: rgba(69, 134, 255, 1);
+	border-radius: 2px 12px 12px 2px;
+  position: absolute;
+  float: left;
+}
+.border_content {
+	width: 340px;
+	height: 114px;
+	border: 1px solid rgba(206, 209, 214, 1);
+  border-radius: 10px;
+  padding: 20px 18px;
+  margin-top: 5px;
+}

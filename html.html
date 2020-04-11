@@ -1,0 +1,118 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta http-equiv="X-UA-Compatible" content="ie=edge">
+  <title>Document</title>
+  <style>
+    * {
+      margin: 0;
+      padding: 0;
+    }
+
+    li,
+    span,
+    img {
+      list-style-type: none;
+      cursor: pointer;
+    }
+
+    #app {
+      -webkit-overflow-scrolling: touch;
+      overflow-x: hidden;
+      overflow-y: hidden;
+    }
+
+    .circle {
+      width: 40px;
+      height: 40px;
+      border: 1px solid;
+      position: absolute;
+      cursor: pointer;
+    }
+
+    .circle:hover {
+      background: #A4D3EE;
+    }
+
+    .horizontal {
+      width: 40px;
+      position: absolute;
+      transform: rotate(var(--angle));
+      transition: .5s;
+    }
+
+    .vertical {
+      width: 40px;
+      position: absolute;
+      transform: rotate(var(--angle1));
+      transition: .5s;
+    }
+
+    #list {
+      width: 200px;
+      opacity: var(--scale);
+      transform: translate(-150px) scale(var(--scale));
+      transition: 1s;
+    }
+  </style>
+  <div id="app"></div>
+  <link href='index.css' rel='stylesheet' type='text/css' />
+  <script src="https://cdn.staticfile.org/react/16.4.0/umd/react.development.js"></script>
+  <script src="https://cdn.staticfile.org/react-dom/16.4.0/umd/react-dom.development.js"></script>
+  <script src="https://cdn.staticfile.org/babel-standalone/6.26.0/babel.min.js"></script>
+  <script src="index.js"></script>
+  <script src="jq.js"></script>
+  <script type="text/babel">
+    const[l,w,h,]=[console.log,window.innerWidth,window.innerHeight]
+    const Flex=(flex,props)=>
+    <div className={flex} style={props.style} onClick={props.click} id={props.id} 
+      onTouchStart={props.touchstart} onTouchMove={props.touchmove} onTouchEnd={props.touchend}>
+        {props.data ? props.data.map(d=><span>{d}</span>) : props.children}
+    </div>
+    class Index extends React.Component{
+      state={
+        distance:'',
+        angle:'',
+        angle1:'90deg',
+        click:0,
+      }
+      componentWillMount(){
+       
+      }
+      click=()=>{
+        if(this.state.click) this.setState({click:0,display:'none',distance:'0px',angle:'0deg',angle1:'90deg'})
+        else this.setState({click:1,display:'',distance:'150px',angle:'-45deg',angle1:'45deg'})
+      }  
+      render() {
+        return (
+          <CC style={{
+            height:h,
+            transform:'translate('+this.state.distance+')',
+            transition:'.5s',
+            '--angle':this.state.angle,
+            '--angle1':this.state.angle1,
+            '--scale':this.state.click
+          }}>  
+            <div className='circle' onClick={this.click} ></div>
+            <hr className='horizontal' />
+            <hr className='vertical'  />
+            <A id='list'>
+              <span>one</span>
+              <span>two</span>
+              <span>three</span>
+              <span>four</span>
+            </A>
+          </CC>
+          
+        )
+      }
+    }
+    ReactDOM.render(
+      <Index />,
+      document.getElementById('app')
+    )
+    
+    </script>

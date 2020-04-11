@@ -1,0 +1,35 @@
+.particulars5 {
+	width: 935px;
+	/* background-color: #fff; */
+	float: left;
+	margin-left: 25px;
+	border-radius: 8px;
+	position: relative;
+}
+.addTsaks {
+	height: 40px;
+	border-radius: 5px;
+	/* width: 935px; */
+	/* background-color: #fff; */
+}
+.work {
+	background-color: #fff;
+	margin: 6px 0px;
+	padding: 8px;
+	border-radius: 5px;
+}
+.mydexi {
+	padding-bottom: 10px;
+	border-bottom: 1px solid #ccc;
+	position: relative;
+}
+.shows {
+	position: absolute;
+	top: 560px;
+	left: 336px;
+}
+@font-face {
+  font-family: 'Akrobat';  
+  src: url('../../../../statics/IconFont/Akrobat-ExtraLight.otf');	
+}
+

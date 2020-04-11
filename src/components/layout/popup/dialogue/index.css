@@ -1,0 +1,21 @@
+.collect_dialogue {
+	width: 360px;
+	height: 174px;
+	border: 1px solid rgba(197, 200, 205, 1);
+  border-radius: 4px;
+  margin: 0 auto;
+  padding: 10px;
+}
+.collect_record{
+	width: 100%;
+	height: 38px;
+  border-radius: 10px;
+  padding: 13px 10px; 
+}
+.collect_record:hover{
+	/* width: 226px; */
+	height: 38px;
+	background-color: #F0F2F5;
+	border-radius: 10px;
+	position: relative;
+}

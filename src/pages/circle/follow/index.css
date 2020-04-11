@@ -1,0 +1,39 @@
+.fans {
+	width: 935px;
+	float: right;
+	margin-top: 30px;
+	border-radius: 8px;
+}
+.serach_fans {
+	height: 50px;
+	background-color: #fff;
+	border-radius: 8px;
+}
+.ant-card-body {
+	padding: 15px 15px 0 15px;
+	zoom: 1;
+}
+.my_continuous {
+	float: left;
+}
+.face {
+	position: absolute;
+	width: 22px;
+	border-bottom: 1px solid #018be6;
+	margin: 10px 121px;
+}
+.clact {
+	clear: both;
+}
+.mores {
+	height: 35px;
+	background-color: #fff;
+	border-radius: 8px;
+	margin-top: 30px;
+	text-align: center;
+}
+.page_footer {
+  height: 50px;
+  margin-top: 30px;
+  text-align: center;
+}

@@ -1,0 +1,21 @@
+/* 忘记密码 */
+.authentications {
+	width: 460px;
+}
+.passwod{
+  font-size: 20px;
+  color: #333333;
+}
+.yz_code{
+  font-size: 14px;
+  color: #B3B3B3;
+  margin-top: -15px;
+}
+/* 文字 */
+.firsts {
+	color: #4586ff;
+}
+.mobiles {
+	color: #4586ff;
+}
+

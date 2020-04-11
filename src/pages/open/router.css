@@ -1,0 +1,16 @@
+
+.laws {
+	background-color: #f7f7f7;
+}
+.ant-menu:not(.ant-menu-horizontal) .ant-menu-item-selected {
+	background-color: #ededed;
+}
+.menus_open {
+	width: 1200px;
+	margin: 0 auto;
+	height: 100%;
+}
+body {
+	background-color: #f7f7f7;
+	height: 100%;
+}

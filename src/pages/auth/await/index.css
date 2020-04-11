@@ -1,0 +1,19 @@
+/* 身份认证 */
+.authentications2 {
+	position: relative;
+	width: 1200px;
+	/* text-align: center; */
+	margin: 0 auto;
+}
+.my_awaits {
+	text-align: center;
+	color: #666666;
+	font-size: 16px;
+	margin-top: 30px;
+}
+.awaits {
+	text-align: center;
+	color: #666666;
+	font-size: 16px;
+	margin-top: 30px;
+}

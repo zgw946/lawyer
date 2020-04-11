@@ -1,0 +1,18 @@
+.personal {
+	width: 935px;
+	margin-left: 20px;
+	float: right;
+	border-radius: 8px;
+	background-color: #fff;
+	padding: 15px 30px;
+	height: 800px;
+}
+.settle{
+  border-bottom: 1px solid #ccc;
+  padding: 0px 0px 2px 0px;
+}
+.take{
+  border-bottom: 1px solid #ccc;
+  padding: 0px 0px 2px 0px;
+  margin-top: 20px;
+}

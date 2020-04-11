@@ -1,0 +1,71 @@
+.particulars {
+	width: 935px;
+	background-color: #fff;
+	float: left;
+	margin-left: 25px;
+	border-radius: 8px;
+}
+.name_aj {
+	margin: 30px 39px;
+}
+.name_ajs {
+	margin: 30px 39px;
+	width: 600px;
+	word-break: break-all;
+	overflow: hidden;
+	word-wrap: break-word;
+}
+.name_ajmc {
+	font-size: 16px;
+	font-weight: 400;
+	color: #393e46;
+}
+.name_fda {
+	/* text-align: left; */
+	font-size: 15px;
+	/* font-weight:400; */
+	color: #393e46;
+	margin-left: 40px;
+	text-align: right;
+}
+.name_fdas {
+	font-size: 15px;
+	/* font-weight:400; */
+	color: #393e46;
+	margin-left: 40px;
+	/* text-align: right; */
+}
+.relevance_phone {
+	width: 670px;
+	height: 30px;
+	/* margin: 6px 2px; */
+	border-radius: 4px;
+	position: relative;
+	padding: 4px 12px;
+}
+.relevance_phone:hover {
+	width: 670px;
+	height: 30px;
+	background-color: #f5f5f5;
+	/* margin: 6px 2px; */
+	border-radius: 4px;
+	position: relative;
+	padding: 4px 12px;
+}
+.edit_input {
+	width: 670px;
+	height: 150px;
+	border: 1px solid rgba(210, 211, 214, 1);
+	border-radius: 4px;
+	padding: 6px 12px;
+}
+.time_input {
+	border-top: none;
+	border-right: none;
+	border-left: none;
+	outline: none;
+	width: 320px;
+	padding: 6px 6px;
+	margin-top: 10px;
+	margin-left: 10px;
+}

@@ -1,0 +1,35 @@
+.actives{
+  border: 1px dashed #ccc;
+  width: 70px;
+	height: 70px;
+}
+.addstaff:active {
+	border: 1px dashed #8eb6ff;
+	width: 70px;
+	height: 70px;
+	/* padding: 15px; */
+	position: relative;
+}
+.stasadd {
+	font-size: 12px;
+	margin-left: 13px;
+	margin-top: 13px;
+	color: #d6d6d6;
+}
+.xiala {
+  margin: 0;
+	padding: 0;
+	border: 1px solid transparent;
+	outline: none;
+  background-color: #fff;
+  width: 0;
+	/* color: #fff; */
+}
+.member{
+  border-top: 1px solid #cccc;
+  width: 100%;
+}
+.precedence{
+  border: solid 1px #ccc;
+  margin: 0 10px;
+}

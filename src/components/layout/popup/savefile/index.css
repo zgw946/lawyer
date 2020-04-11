@@ -1,0 +1,103 @@
+.savefiles {
+	position: relative;
+}
+.savewx {
+	font-size: 16px;
+	color: #333;
+}
+.transverses {
+	width: 400px;
+	border-bottom: 1px solid #ccc;
+	position: absolute;
+}
+.savaSelect {
+	width: 400px;
+	height: 200px;
+	border: solid 1px #ccc;
+	background-color: #fcfcfc;
+	border-radius: 4px;
+	margin-top: 35px;
+	position: relative;
+}
+.arrows {
+	position: absolute;
+	top: 10px;
+	left: 10px;
+	cursor: pointer;
+}
+.arrows2 {
+	position: absolute;
+	top: 35px;
+	left: 37px;
+	cursor: pointer;
+}
+.arrows4 {
+	position: absolute;
+	top: 95px;
+	left: 10px;
+	cursor: pointer;
+}
+.folders {
+	position: absolute;
+	top: 10px;
+	left: 25px;
+	color: #ffcf5c;
+	font-size: 16px;
+	cursor: pointer;
+}
+.folders2 {
+	position: absolute;
+	top: 35px;
+	left: 50px;
+	color: #ffcf5c;
+	font-size: 16px;
+	cursor: pointer;
+}
+.folders3 {
+	position: absolute;
+	top: 60px;
+	left: 80px;
+	color: #ffcf5c;
+	font-size: 16px;
+	cursor: pointer;
+}
+.folders4 {
+	position: absolute;
+	top: 95px;
+	left: 25px;
+	color: #ffcf5c;
+	font-size: 16px;
+	cursor: pointer;
+}
+.savazx {
+	position: absolute;
+	top: 7px;
+	left: 49px;
+	color: #333;
+	font-size: 14px;
+	cursor: pointer;
+}
+.savazx2 {
+	position: absolute;
+	top: 32px;
+	left: 79px;
+	color: #333;
+	font-size: 14px;
+	cursor: pointer;
+}
+.savazx3 {
+	position: absolute;
+	top: 57px;
+	left: 110px;
+	color: #333;
+	font-size: 14px;
+	cursor: pointer;
+}
+.savazx4 {
+	position: absolute;
+	top: 92px;
+	left: 51px;
+	color: #333;
+	font-size: 14px;
+	cursor: pointer;
+}

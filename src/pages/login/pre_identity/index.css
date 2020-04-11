@@ -1,0 +1,85 @@
+/* 头部 */
+.headers {
+  height: 64px;
+  width: 800px;
+  position: relative;
+}
+
+.logins_img {
+  width: 122px;
+  height: 42px;
+  float: left;
+  margin-top: 11px;
+  margin-left: 33px;
+}
+
+.hx {
+  float: left;
+  position: absolute;
+  top: 20px;
+  left: 184px;
+}
+
+.logins {
+  float: left;
+  position: absolute;
+  top: 20px;
+  left: 209px;
+  color: #333333;
+}
+
+/* 背景图 */
+.mymj_imgs {
+  position: relative;
+}
+
+.bj_imgs {
+  position: fixed;
+  top: 0;
+  right: 0;
+  height: 100%;
+  min-width: 1000px;
+  z-index: -10;
+  zoom: 1;
+  background-color: #fff;
+  background-repeat: no-repeat;
+  background-size: cover;
+  -webkit-background-size: cover;
+  -o-background-size: cover;
+  background-position: center 0;
+}
+
+/* 进入身份验证 */
+.authenticationsss {
+  width: 440px;
+  height: 420px;
+  border-radius: 8px;
+  box-shadow: 0 0 18px #eff0f1;
+  margin: 150px 130px;
+  position: relative;
+  padding: 20px 20px;
+}
+
+.sfrz {
+  text-align: center;
+  font-size: 17px;
+  font-weight: bold;
+}
+
+.explains {
+  text-align: center;
+  /* margin-left: 10px; */
+  font-size: 14px;
+  color: #666666;
+}
+
+.btn_authentications {
+  width: 100%;
+  margin-top: 90px;
+}
+
+.fooster {
+  text-align: center;
+  color: #2E3341;
+  margin-top: 120px;
+}

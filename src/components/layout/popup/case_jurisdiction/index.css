@@ -1,0 +1,35 @@
+
+.invitename {
+	font-size: 18px;
+	font-family: Microsoft YaHei;
+	font-weight: bold;
+	color: rgba(0, 0, 0, 1);
+	text-align: center;
+	/* margin-top: 10px; */
+	padding-bottom: 10px;
+}
+.cy {
+	width: 320px;
+	border-bottom: 1px solid #ccc;
+	margin-top: 10px;
+}
+.zwdata {
+	text-align: center;
+	margin: 50px;
+	color: #ccc;
+}
+.amounts {
+	margin: 10px 0;
+	position: relative;
+	text-align: center;
+}
+.cysl {
+	position: absolute;
+	top: 20px;
+	left: 30px;
+}
+.cysl2 {
+	position: absolute;
+	top: 20px;
+	left: 100px;
+}

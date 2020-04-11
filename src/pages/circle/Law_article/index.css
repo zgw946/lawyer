@@ -1,0 +1,49 @@
+.lvshi_conten {
+	width: 935px;
+	float: right;
+	margin-top: 30px;
+	border-radius: 8px;
+	/* background-color: cadetblue; */
+}
+.all_attention {
+	height: 50px;
+	background-color: #fff;
+	border-radius: 8px;
+}
+.ant-card-body {
+	padding: 15px 15px 0 15px;
+	zoom: 1;
+}
+
+.paragraph {
+  width: 600px;
+	word-break: break-all;
+	overflow: hidden;
+  word-wrap: break-word;
+  margin-top: 20px;
+  margin-left: 34px;
+}
+.examine{
+  width: 933px;
+  /* height: 50px; */
+  /* background-color: #fafafa; */
+  margin-left: -15px;
+  margin-top: 10px;
+  border-radius: 0 0 8px 8px;
+}
+.revert{
+  float: right;
+  margin: 20px 0;
+  border-bottom: 1px solid #ccc;
+  width: 100%;
+}
+.dddsd{
+  border-bottom: 1px solid #ccc;
+  margin-bottom: 20px;
+}
+.leave{
+  background-color: #fff;
+  padding: 10px;
+  margin-top: 20px;
+  border-radius: 7px;
+}

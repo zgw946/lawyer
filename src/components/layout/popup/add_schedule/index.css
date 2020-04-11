@@ -1,0 +1,73 @@
+.establish {
+	font-size: 16px;
+	text-align: center;
+	font-weight: bold;
+}
+.quantian {
+	position: absolute;
+	top: -23px;
+	left: 396px;
+}
+.quantians {
+	position: absolute;
+	top: -22px;
+	left: 410px;
+}
+.ant-time-picker-input {
+	position: relative;
+	display: inline-block;
+	width: 100%;
+	height: 32px;
+	padding: 4px 4px;
+	color: rgba(0, 0, 0, 0.65);
+	font-size: 14px;
+	line-height: 1.5;
+	background-color: #fff;
+	background-image: none;
+	border: 1px solid #d9d9d9;
+	border-radius: 4px;
+	-webkit-transition: all 0.3s;
+	-o-transition: all 0.3s;
+	transition: all 0.3s;
+}
+
+.ant-form-item-control {
+	position: relative;
+	line-height: 0px;
+	zoom: 1;
+}
+.actives {
+	border: 1px dashed #ccc;
+	width: 70px;
+	height: 70px;
+}
+.addstaff:active {
+	border: 1px dashed #8eb6ff;
+	width: 70px;
+	height: 70px;
+	/* padding: 15px; */
+	position: relative;
+}
+.stasadd5 {
+	font-size: 12px;
+	margin-left: 13px;
+	margin-top:15px;
+	color: #d6d6d6;
+}
+.xiala5 {
+	margin: 0;
+	padding: 0;
+	border: 1px solid transparent;
+	outline: none;
+	background-color: #fff;
+	width: 0;
+	/* color: #fff; */
+}
+.member{
+  border-top: 1px solid #cccc;
+  width: 100%;
+}
+.precedence{
+  border: solid 1px #ccc;
+  margin: 0 10px;
+}

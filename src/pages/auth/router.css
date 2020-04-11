@@ -1,0 +1,139 @@
+/* 头部 */
+.auth_headers {
+	height: 64px;
+	width: 800px;
+	position: relative;
+}
+.auth_logins_img {
+	width: 122px;
+	height: 42px;
+	float: left;
+	margin-top: 11px;
+	margin-left: 33px;
+}
+.hx {
+	float: left;
+	position: absolute;
+	top: 20px;
+	left: 184px;
+}
+.auth_logins {
+	float: left;
+	position: absolute;
+	top: 20px;
+	left: 209px;
+	color: #333333;
+}
+/* 背景图 */
+.mymj_imgs {
+	position: relative;
+}
+.bj_imgs {
+	position: fixed;
+	top: 0;
+	right: 0;
+	height: 100%;
+	min-width: 1000px;
+	z-index: -10;
+	zoom: 1;
+	background-color: #fff;
+	background-repeat: no-repeat;
+	background-size: cover;
+	-webkit-background-size: cover;
+	-o-background-size: cover;
+	background-position: center 0;
+}
+/* 登录注册 */
+.tab_login {
+	width: 460px;
+	height: 420px;
+	border-radius: 8px;
+	box-shadow: 0 0 18px #eff0f1;
+	margin: 150px auto;
+	position: relative;
+	padding: 20px 40px;
+}
+.Selects {
+	font-weight: bold;
+}
+.btnscode {
+	position: absolute;
+	left: 274px;
+	top: 73px;
+	height: 32px;
+}
+.link_a {
+	margin-top: 21px;
+	color: #ccc;
+	margin-left: 203px;
+}
+.btnlogin {
+	width: 100%;
+	margin-top: 35px;
+}
+.wei_xianhua {
+	position: relative;
+	height: 70px;
+}
+.shuxian {
+	width: 17px;
+	height: 2px;
+	border-bottom: 1px solid #ccc;
+	position: absolute;
+	top: 35px;
+	left: 117px;
+}
+.shuxian2 {
+	width: 17px;
+	height: 2px;
+	border-bottom: 1px solid #ccc;
+	position: absolute;
+	top: 35px;
+	left: 227px;
+}
+.incswx {
+	position: absolute;
+	left: 146px;
+	top: 28px;
+}
+.wx {
+	color: #ccc;
+	line-height: 70px;
+	margin-left: 163px;
+}
+.fooster {
+	text-align: center;
+	color: #2e3341;
+	margin-top: 120px;
+}
+
+/* 头部 */
+.suceessheader {
+	height: 64px;
+	width: 800px;
+	position: relative;
+}
+
+.logins_imgs2 {
+	width: 122px;
+	height: 42px;
+	float: left;
+	margin-top: 11px;
+	margin-left: 33px;
+}
+
+.hxs2 {
+	float: left;
+	position: absolute;
+	top: 20px;
+	left: 184px;
+}
+
+.loginsccesss {
+	float: left;
+	position: absolute;
+	top: 20px;
+	left: 209px;
+	color: #333333;
+
+}

@@ -1,0 +1,184 @@
+.ant-menu:not(.ant-menu-horizontal) .ant-menu-item-selected {
+	background-color: #ededed;
+}
+
+.aj_mcase {
+	background-color: #2e3341;
+	height: 40px;
+	width: 240px;
+	margin-top: 40px;
+	border-radius: 8px 8px 0px 0px;
+	position: relative;
+}
+
+.aj_mcases {
+	background-color: #2e3341;
+	height: 40px;
+	width: 240px;
+	margin-top: 4px;
+	border-radius: 8px 8px 0px 0px;
+	position: relative;
+}
+
+.aj {
+	position: absolute;
+	top: 14px;
+	left: 20px;
+}
+
+.wjs {
+	position: absolute;
+	top: 9px;
+	left: 48px;
+	color: #fff;
+	font-size: 16px;
+}
+
+.screen {
+	position: absolute;
+	color: #333333;
+	font-size: 16px;
+	top: 22px;
+	left: 30px;
+}
+
+.inputss {
+	width: 200px;
+	height: 32px;
+	margin-left: 84px;
+	margin-top: 18px;
+}
+
+.selects_input {
+	position: absolute;
+	left: 322px;
+	top: 18px;
+}
+
+.searchs_ci {
+	position: absolute;
+	left: 559px;
+	top: 18px;
+	width: 350px;
+}
+
+.partys {
+	font-size: 14px;
+	color: #393e46;
+}
+
+.cards {
+	border-radius: 8px;
+	position: relative;
+	float: left;
+}
+
+.ant-card-body {
+	padding: 15px 15px 0 15px;
+	zoom: 1;
+}
+
+.details {
+	width: 260px;
+	font-size: 18px;
+	color: #393e46;
+	overflow: hidden;
+	text-overflow: ellipsis;
+	white-space: nowrap;
+}
+
+.condition {
+
+	width: 50px;
+	height: 24px;
+}
+
+.deletets {
+	position: absolute;
+	left: 273px;
+	top: 40px;
+}
+
+.file_icon {
+	position: absolute;
+	left: 273px;
+	top: 16px;
+}
+
+.conterns {
+	margin-top: 6px;
+	color: #999999;
+	font-size: 14px;
+}
+
+.myconten {
+	width: 240px;
+	height: 84px;
+	overflow: hidden;
+	margin-top: -9px;
+	font-size: 14px;
+	color: #333333;
+	margin-bottom: 5px;
+}
+
+.paging {
+	width: 500px;
+	margin: 0 auto;
+	margin-bottom: 60px;
+}
+
+.slide-consult-enter {
+	max-height: 0px;
+}
+
+.slide-consult-enter-active {
+	max-height: 128px;
+	transition: all 0.3s linear;
+}
+
+.slide-consult-enter-done {
+	max-height: 128px;
+}
+
+.slide-consult-exit {
+	max-height: 128px;
+}
+
+.slide-consult-exit-active {
+	max-height: 0px;
+	transition: all 0.3s linear;
+}
+
+.slide-consult-exit-done {
+	max-height: 0px;
+}
+
+.consult-btn {
+	width: 120px;
+	height: 38px;
+	border-radius: 40px;
+	margin-top: 40px;
+}
+
+.lawyer_box_btn {
+	height: 120px;
+	width: 298px;
+	background: rgba(0, 0, 0, 0.6);
+	bottom: 0px;
+
+	left: 0px;
+	border-radius: 0 0 5px 5px;
+	text-align: center;
+	/*cursor: pointer;*/
+}
+
+.lawyer_box_btn:hover {
+	background: rgba(0, 0, 0, 0.7);
+}
+
+.lawyer_box_btn_t {
+	line-height: 120px;
+	color: #fff;
+	font-size: 14px;
+	float: left;
+}

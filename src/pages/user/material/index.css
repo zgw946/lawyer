@@ -1,0 +1,39 @@
+.my_information {
+	width: 935px;
+	margin-left: 20px;
+	float: right;
+	border-radius: 8px;
+	background-color: #fff;
+	padding: 10px 12px;
+}
+.diamonds {
+	width: 10px;
+	height: 10px;
+	background: rgba(69, 134, 255, 1);
+	border-radius: 2px;
+	position: absolute;
+	top: 6px;
+}
+.myde_essential {
+	position: relative;
+	border-bottom: 1px solid #ccc;
+}
+.my_days {
+	margin-top: 20px;
+	position: relative;
+}
+.sss {
+	text-align: center;
+	margin-left: auto;
+	margin-right: auto;
+	/* top: 0; */
+	bottom: 0;
+	right: 0;
+	left: 0;
+	height: 50px;
+	/* margin-top: 900px; */
+	position: absolute;
+}
+.clears4{
+	clear: both;
+}

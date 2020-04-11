@@ -1,0 +1,21 @@
+/* .name_avatar {
+	
+} */
+.my_assistant {
+	color: #333;
+	margin: -6px 0px 0px 20px;
+}
+.more_session {
+	position: absolute;
+	bottom: 0;
+	left: 50%;
+	transform: translate(-50%, -50%);
+}
+.more_content {
+	white-space: nowrap;
+	/* 超出变成... */
+	text-overflow: ellipsis;
+	/* 超出隐藏 */
+	overflow: hidden;
+	width: 210px;
+}

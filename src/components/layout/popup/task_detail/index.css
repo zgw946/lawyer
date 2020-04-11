@@ -1,0 +1,56 @@
+.task_definition {
+	width: 800px;
+}
+.detail_left {
+	width: 480px;
+	float: left;
+}
+.detail_right {
+	width: 297px;
+	float: left;
+	height: 727px;
+	position: relative;
+}
+.law_names {
+	white-space: nowrap;
+}
+.detail_relevance {
+	width: 450px;
+	background-color: #f2f6ff;
+	height: 28px;
+	border-radius: 4px;
+}
+.task_TextArea {
+	position: absolute;
+	bottom: -25px;
+}
+.input_xianTop {
+	border-top: #ccc 1px solid;
+	position: absolute;
+	width: 288px;
+	top: -9px;
+	left: 8px;
+}
+.xianTop_participant {
+	border-top: #ccc 1px solid;
+	position: absolute;
+	width: 288px;
+	top: 76px;
+	left: -1px;
+}
+.task_sender {
+	width: 260px;
+	height: 50px;
+	/* background: rgba(242, 246, 255, 1); */
+	border-radius: 4px;
+	margin-top: 10px;
+	padding: 4px;
+	margin-left: 10px;
+}
+.subtask_list {
+	/* width:450px;
+	height: 40px; */
+	background: rgba(242, 246, 255, 1);
+	border-radius: 4px;
+	padding: 8px 5px;
+}

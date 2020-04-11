@@ -1,0 +1,30 @@
+.network{
+  border: 1px solid #ccc;
+  width: 370px;
+  height: 400px;
+  float: left;
+  position: relative;
+  margin-top: 25px;
+  padding: 10px;
+}
+.my_networdlaw{
+  border: 1px solid #ccc;
+  width: 370px;
+  height: 400px;
+  float: right;
+  position: relative;
+  margin-top: 25px;
+  padding: 10px;
+}
+.lanses {
+  border-left: 3px solid #4586ff;
+  
+}
+.you_file{
+  border: 1px dashed #ccc;
+  width: 32px;
+  height: 32px;
+}
+.matter{
+  width: 290px;
+}

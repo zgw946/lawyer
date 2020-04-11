@@ -1,0 +1,92 @@
+.m_screen {
+	position: absolute;
+	color: #333333;
+	font-size: 14px;
+	top: 25px;
+	left: 30px;
+}
+.region {
+	position: absolute;
+	top: 19px;
+	left: 73px;
+	width: 135px;
+}
+.m_type {
+	position: absolute;
+	color: #333333;
+	font-size: 14px;
+	top: 25px;
+	left: 20px;
+}
+.m_type2 {
+	position: absolute;
+	color: #333333;
+	font-size: 14px;
+	top: 25px;
+	left: 208px;
+}
+.m_type3 {
+	position: absolute;
+	color: #333333;
+	font-size: 14px;
+	top: 25px;
+	left: 400px;
+}
+.type_select {
+	position: absolute;
+	top: 19px;
+	left: 60px;
+}
+.type_select2 {
+	position: absolute;
+	top: 19px;
+	left: 250px;
+}
+.type_select3 {
+	position: absolute;
+	top: 19px;
+	left: 474px;
+}
+.ant-card-body {
+	padding: 15px 15px 0 15px;
+	zoom: 1;
+}
+.matter {
+	color: #333333;
+	font-size: 17px;
+	/* font-weight: bold; */
+}
+.information {
+	width: 600px;
+	word-break: break-all;
+	overflow: hidden;
+	word-wrap: break-word;
+	margin-top: 9px;
+	position: relative;
+	margin-left: 44px;
+	float: left;
+}
+.informations {
+	font-size: 14px;
+	color: #333333;
+}
+.cut_off {
+	float: right;
+}
+.cancel_order {
+	float: right;
+}
+.youOrder {
+	float: right;
+}
+.user_centre {
+	height: 50px;
+	width: 935px;
+	background-color: #fafafa;
+	margin-left: -15px;
+	margin-top: 20px;
+}
+.public_paginations {
+	margin-bottom: 70px;
+}
+

@@ -1,0 +1,14 @@
+.particularss {
+	width: 935px;
+	background-color: #fff;
+	float: left;
+	margin-left: 25px;
+	border-radius: 8px;
+	height: 600px;
+}
+.invite_member {
+	width: 835px;
+	height: 80px;
+	margin: 5px 50px;
+	border-bottom: 1px solid #ccc;
+}

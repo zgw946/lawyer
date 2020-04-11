@@ -1,0 +1,42 @@
+.law_square {
+	width: 935px;
+	overflow: auto;
+	float: right;
+	margin: 20px 0px 0px 20px;
+}
+.search_select {
+	width: 935px;
+	height: 50px;
+	background: rgba(255, 255, 255, 1);
+	border-radius: 4px;
+}
+.wire_input {
+	border-bottom: 1px solid #ccc;
+	width: 225px;
+	position: absolute;
+	margin: 40px 0px 0px 205px;
+}
+.search_Input {
+	border: none;
+	outline: none;
+	margin: 0px 0px 0px 213px;
+}
+.opne_content {
+	width: 935px;
+	background: rgba(255, 255, 255, 1);
+	border-radius: 4px;
+}
+.Tab_content {
+	margin: 0px 20px 20px 20px;
+}
+.law_load {
+	width: 935px;
+	height: 40px;
+	background: rgba(255, 255, 255, 1);
+	border-radius: 4px;
+	margin: 20px 0px 20px 0px;
+	text-align: center;
+}
+.Tabcontent{
+  margin-bottom: 5px;
+}
